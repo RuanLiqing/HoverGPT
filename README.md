@@ -16,3 +16,7 @@
 - 在输入框中，command + Enter 来发送消息，而 Enter 仅仅是换行。注意，这里与标准版的浏览器网页版不同。
 
 ## 将会根据你们的反馈来优化和更新app，理念是简洁优雅
+
+<div align="center">
+    <a href="images/wx.jpg" title="你的微信支付图片链接" style="color: blue;">给程序猿买咖啡</a>来催更哟！！！
+</div>
