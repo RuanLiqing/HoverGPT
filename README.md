@@ -18,5 +18,5 @@
 ## 将会根据你们的反馈来优化和更新app，理念是简洁优雅
 
 <div align="center">
-    <a href="images/wx.jpg" title="你的微信支付图片链接" style="color: blue;">给程序猿买咖啡</a>来催更哟！！！
+    <a href="images/pay.png" title="你的微信支付图片链接" style="color: blue;">给程序猿买咖啡</a>来催更哟！！！
 </div>
