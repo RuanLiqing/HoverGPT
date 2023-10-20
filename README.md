@@ -1,7 +1,7 @@
 # HoverGPT
  一个永远悬浮于最上层的ChatGPT，可与其他软件的全屏模式打配合，创造更高的生产力。
 
-![Example Image](images/example.jpg)
+![Example Image](images/icon.png)
 
 ## HoverGPT_mac_Mseries_Sonoma_14.zip:
 
