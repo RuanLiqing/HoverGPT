@@ -16,6 +16,13 @@
 - 在输入框中，command + Enter 来发送消息，而 Enter 仅仅是换行。注意，这里与标准版的浏览器网页版不同。
 - 关于不能点击“+”来选择文件的bug：你可以切换到包含访达的页面，这时HoverGPT依然在最上层，然后直接拖你想要的文件到窗口即可。
 
+## unstable_HoverGPT_mac_Mseries_Sonoma_14.zip：
+
+ HoverGPT_mac_Mseries_Sonoma_14.zip的不稳定版，目前在M1 MacBook Pro上能正常运行以下新功能，M2 Mac studio则概率性正常运行
+
+- command + F，来呼出一个访达文件选择窗口，请注意是利用拖动来添加文件。
+
+
 ## 将会根据你们的反馈来优化和更新app，理念是简洁优雅
 
 <div align="center">
